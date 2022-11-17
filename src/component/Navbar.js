@@ -2,9 +2,10 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div>
-      <h1>this is Navbar</h1>
-    </div>
+    <nav>
+      <img src="../images/globe-logo.png" alt="globe" className="globe-logo" />
+      <h2 className="title">my travel journal</h2>
+    </nav>
   );
 }
 
