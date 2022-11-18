@@ -1,5 +1,7 @@
 # Scrimba Project 04
 
+## My Travel Journey Project
+
 - This project is to test my overall progress on my react journey
 
 #### React Overall progress and steps need to do
